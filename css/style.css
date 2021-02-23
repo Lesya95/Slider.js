@@ -17,7 +17,7 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   background-color: lightblue;
-  background-image: url("./images/gratis-png-anime-manga-kawaii-chibi-manga-boy-thumbnail.png"), url("./images/gratis-png-personaje-de-anime-femenino-dibujo-de-anime-chibi-kawaii-manga-nina-linda-thumbnail.png");
+  background-image: url("./../images/gratis-png-anime-manga-kawaii-chibi-manga-boy-thumbnail.png"), url("./../images/gratis-png-personaje-de-anime-femenino-dibujo-de-anime-chibi-kawaii-manga-nina-linda-thumbnail.png");
   background-size: 300px, 300px;
   background-repeat: no-repeat, no-repeat;
   background-position: bottom right, left top;
