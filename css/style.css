@@ -24,7 +24,7 @@ body {
 }
 
 button {
-  margin: 0;
+  margin: 10px;
   padding: 0;
 }
 
@@ -71,4 +71,9 @@ h2 {
   width: 90%;
   -webkit-box-shadow: 5px 5px 10px #840606;
           box-shadow: 5px 5px 10px #840606;
+}
+@media(max-width: 1150px){
+  body{
+    background-image: none;
+  }
 }
